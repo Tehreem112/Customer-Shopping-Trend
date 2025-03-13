@@ -1,5 +1,6 @@
 # Customer-Shopping-Trend
-Create Customer Shopping dashboard using Power BI to analyze cunsumer purchasing behaviour.
+
+Create Customer Shopping dashboard using Power BI to analyze customer purchasing behaviour. Identify valuable insights to support data-driven decision-making in the retail sector.
 
 ## Dashboard
 
@@ -11,4 +12,4 @@ Create Customer Shopping dashboard using Power BI to analyze cunsumer purchasing
 ## Key insights
 - Total customers & purchase amount
 - Purchasing behaviour by season, subscription and payment mode
-- Visualize customer demand by various pattren
+- Visualize consumer demand by various pattren 
